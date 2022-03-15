@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @CharlesNowot 👋
+- 🖥 Knowledge about: HTML, CSS, JavaScript, Java, Fluther, Python 🖥
+- 👤 I'm macos user 👤
