@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @CharlesNowot 👋
-- 🖥 Knowledge about: JavaScript, Java, Fluther, Python 🖥
-- 👤 I'm macos user 👤
+- 📚 | Study - Chill - Sleep - Repeat
+- 💻 | Developer
+- 👤 | I'm macos user
