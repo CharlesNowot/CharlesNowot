@@ -1,3 +1,4 @@
-- 📚 | Study - Chill - Sleep - Repeat
-- 💻 | Developer
-- 👤 | I'm macos user
+- 💻 coding: websites, easy minecraft plugins, discord bots and more...
+- 🌱 hobbies: product & software design, philosophy, guitar, gaming
+- 🌐 websites: [🖥️ official] soon, [💻 terminal] charlesnowot.com
+- 👤 OS: macos and ios user
